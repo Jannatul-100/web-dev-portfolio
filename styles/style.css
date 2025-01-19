@@ -87,3 +87,43 @@ nav ul{
     width: 580px;
 }
 
+.title{
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+}
+.description{
+    font-size: 18px;
+    color: #757575;
+
+}
+
+.bg-color{
+    background-color: #FFF8F3;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+
+}
+.ab-descrip{
+    font-weight: 600;
+    font-size: 20px;
+    color: #181818;
+}
+.ab-title{
+    font-size: 20px;
+    
+    color: #757575;
+
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
