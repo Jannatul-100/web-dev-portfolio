@@ -74,14 +74,18 @@ nav ul{
 .text1{
     font-size: 45px;
     font-weight: 600;
+    margin-top: 0px;
 }
 .text2{
     font-size: 85px;
     font-weight: 800;
+    margin-bottom: 20px;
+
 }
 .ban-para{
     font-size: 18px;
     color: #757575;
+    margin-bottom: 30px;
 }
 .pro-pic{
     width: 580px;
