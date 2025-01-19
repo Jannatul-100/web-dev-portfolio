@@ -64,11 +64,11 @@ nav ul{
 .banner{
     display: flex;
     justify-content: space-between;
-    margin: 0 35px 0 230px;
+    margin: 0 38px 0 230px;
 }
 
 .ban-content{
-    width: 585px;
+    max-width: 585px;
 }
 
 .text1{
