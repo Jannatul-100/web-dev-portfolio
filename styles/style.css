@@ -182,3 +182,36 @@ main section{
 .cv {
     margin-top: 20px;
 }
+footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 115px;
+}
+
+.footer-col{
+    width: 50%;
+
+}
+footer input[type="text"] , footer input[type="email"]{
+    height: 64px;
+    width: 100%;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    font-size: 16;
+    padding: 10px 20px;
+    margin-bottom: 25px;
+    border: none;
+}
+footer textarea{
+    height: 180px;
+    width: 100%;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    font-size: 16;
+    padding: 10px 20px;
+    margin-bottom: 25px;
+    border: none;
+
+}
